@@ -13,15 +13,14 @@ I used these two trends because through my research, I found that they were like
 
 I got all the videos in the trend through a wrapper library called Tiktokpy.
 
-* [Library source]
-(https://tiktokpy.readthedocs.io/en/latest/users/explanation.html)
+* [Library source](https://tiktokpy.readthedocs.io/en/latest/users/explanation.html)
 * [Specific link](https://tiktokpy.readthedocs.io/en/latest/users/explanation.html#data-collection)
 
 The total of the videos extracted was 171. 
 
 I then set up the scraper so that it input results into a format that could be converted into a dataframe.
 
-Here is the notebook in which I get the videos
+Here is [the notebook in which I get the videos](https://github.com/ivynyayieka/tiktok_education/blob/main/tiktok_education_getting_the_data.ipynb)
 
 # Cleaning the data
 However, there were duplicates. That is, videos which were tagged with both tags appeared twice in my dataset. 
@@ -32,8 +31,8 @@ For the remaining videos, I removed any videos that were not Kenyan. For instanc
 
 From the 140 videos, I remained with 70 videos.
 
-Here is the notebook in which I collect the videos
-Here is the Excel sheet with the final dataset
+Here is the [notebook in which I clean and analyse the data](https://github.com/ivynyayieka/tiktok_education/blob/main/tiktok_data_collection_analysis_and_cleaning.ipynb)
+Here is the csv with [the final dataset](https://github.com/ivynyayieka/tiktok_education/blob/main/df_tiktok_only_kenya.csv)
 
 # How I categorised the videos
 
