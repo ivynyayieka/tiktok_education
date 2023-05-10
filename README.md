@@ -1,3 +1,4 @@
+# Young Kenyans, especially women, are using a tiktok challenge to discuss dangers they faced in high school
 For this project, I analysed the videos in the why are you lying challenge. Through the challenge trend on tiktok, hundreds of young Kenyans talked about mistreatment in their high schools
 
 Although the videos occurred under many different tags, I worked specifically with the videos under the following tags:
