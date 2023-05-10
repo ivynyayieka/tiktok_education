@@ -33,6 +33,7 @@ For the remaining videos, I removed any videos that were not Kenyan. For instanc
 From the 140 videos, I remained with 70 videos.
 
 Here is the [notebook in which I clean and analyse the data](https://github.com/ivynyayieka/tiktok_education/blob/main/tiktok_data_collection_analysis_and_cleaning.ipynb)
+
 Here is the csv with [the final dataset](https://github.com/ivynyayieka/tiktok_education/blob/main/df_tiktok_only_kenya.csv)
 
 # How I categorised the videos
